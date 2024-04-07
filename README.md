@@ -1,2 +1,2 @@
-# street-flighter-bot
-QA bot for answering street-lighter game questions 
+# street-fighter-bot
+QA bot for answering street-fighter game questions 
